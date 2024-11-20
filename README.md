@@ -10,4 +10,4 @@
 🎶 Jamming to One Direction while coding
 🐾 Dogs>>>>> 
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Programming Chaos](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
