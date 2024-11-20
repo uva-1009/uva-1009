@@ -8,6 +8,7 @@
  🌟 Fun Stuff  
 💡 Favorite quote: "Code is like humor. When you have to explain it, it’s bad."  
 🎶 Jamming to One Direction while coding
+
 🐾 Dogs>>>>> 
 
 ![Programming Chaos](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
